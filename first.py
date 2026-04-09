@@ -1,4 +1,7 @@
-print("hello")jilohkanzujabxjhmn
+a=12
+print(a)
+
+
 
 
 
